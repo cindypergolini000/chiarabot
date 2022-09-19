@@ -1,0 +1,123 @@
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-AzureBot-with-rg.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-BotApp-with-rg.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-AzureBot-with-rg.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-BotApp-with-rg.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-AzureBot-new-rg.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-BotApp-new-rg.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-AzureBot-new-rg.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-BotApp-new-rg.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\chiarabot.staticwebassets.runtime.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\chiarabot.exe
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\appsettings.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\chiarabot.deps.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\chiarabot.runtimeconfig.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\chiarabot.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\ref\chiarabot.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\chiarabot.pdb
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Builder.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Configuration.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Connector.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Connector.Streaming.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Schema.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Streaming.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.csproj.AssemblyReference.cache
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.AssemblyInfoInputs.cache
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.AssemblyInfo.cs
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.csproj.CoreCompileInputs.cache
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\scopedcss\bundle\chiarabot.styles.css
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.csproj.CopyComplete
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\ref\chiarabot.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.pdb
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\obj\Debug\net6.0\chiarabot.genruntimeconfig.cache
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Bots\AdaptiveCard.json
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\AdaptiveCards.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\AdaptiveCards.Templating.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\AdaptiveExpressions.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Antlr4.Runtime.Standard.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\JObject.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\Users\cinzia.cernetti\Downloads\New Folder\chiarabot\bin\Debug\net6.0\AdaptiveCard.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-AzureBot-with-rg.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-BotApp-with-rg.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-AzureBot-with-rg.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-BotApp-with-rg.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-AzureBot-new-rg.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-BotApp-new-rg.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-AzureBot-new-rg.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-BotApp-new-rg.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\AdaptiveCard.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Bots\AdaptiveCard.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\chiarabot.staticwebassets.runtime.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\chiarabot.exe
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\appsettings.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\chiarabot.deps.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\chiarabot.runtimeconfig.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\chiarabot.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\ref\chiarabot.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\chiarabot.pdb
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\AdaptiveCards.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\AdaptiveCards.Templating.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\AdaptiveExpressions.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Antlr4.Runtime.Standard.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\JObject.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Builder.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Configuration.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Connector.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Connector.Streaming.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Schema.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Bot.Streaming.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.csproj.AssemblyReference.cache
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.AssemblyInfoInputs.cache
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.AssemblyInfo.cs
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.csproj.CoreCompileInputs.cache
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\scopedcss\bundle\chiarabot.styles.css
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.csproj.CopyComplete
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\ref\chiarabot.dll
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.pdb
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\obj\Debug\net6.0\chiarabot.genruntimeconfig.cache
+C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\bin\Debug\net6.0\SolitaireCard.json

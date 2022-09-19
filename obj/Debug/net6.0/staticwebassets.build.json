@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "JnkkKRxkTLO5RCA0g1dSj03MLmwsF0+LHfpASHQQuW4=",
+  "Source": "chiarabot",
+  "BasePath": "_content/chiarabot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "chiarabot\\wwwroot",
+      "Source": "chiarabot",
+      "ContentRoot": "C:\\Users\\cinzia.cernetti\\Downloads\\NewFolder\\chiarabot\\wwwroot\\",
+      "BasePath": "_content/chiarabot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\cinzia.cernetti\\Downloads\\NewFolder\\chiarabot\\wwwroot\\default.html",
+      "SourceId": "chiarabot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cinzia.cernetti\\Downloads\\NewFolder\\chiarabot\\wwwroot\\",
+      "BasePath": "_content/chiarabot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}

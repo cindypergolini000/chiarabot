@@ -1,0 +1,41 @@
+{
+  "type": "message",
+  "text": "Plain text is ok, but sometimes I long for more...",
+  "attachments": [
+    {
+      "contentType": "application/vnd.microsoft.card.adaptive",
+      "content": {
+        "type": "AdaptiveCard",
+        "version": "1.0",
+        "body": [
+		
+          {
+            "type": "Image",
+            "Url": "C:\Users\cinzia.cernetti\Downloads\NewFolder\chiarabot\chiara.jpg"         
+          },	
+          {
+            "type": "TextBlock",
+            "text": "Check out my new EP",
+            "size": "large"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Click on the link below to find out some news about my EP coming out on September 26th"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Adaptive Cards",
+            "separation": "none"
+          }
+        ],
+        "actions": [
+          {
+            "type": "Action.OpenUrl",
+            "url": "https://orcd.co/chiaraworld",
+            "title": "Check my new EP"
+          }
+        ]
+      }
+    }
+  ]
+}
