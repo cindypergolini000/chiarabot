@@ -2,20 +2,35 @@
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
     "type": "AdaptiveCard",
     "version": "1.0",
-    "backgroundImage": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/SolitaireWin10/dev/adapative_card_assets/v1/card_background.png",
     "body": [
       {
+        "speak": "",
         "type": "ColumnSet",
         "columns": [
           {
             "type": "Column",
-            "width": 1,
+            "width": 2,
             "items": [
               {
-                "type": "Image",
-                "url": "./chiara.png",
-                "size": "stretch"
-              }
+                "type": "TextBlock",
+                "text": "CHECK MY NEW EP OUT",
+				"weight": "bolder",
+                "size": "extraLarge",
+                "spacing": "none"
+              },
+              {
+                "type": "TextBlock",
+                "text": "Il 26 settembre uscirà su Spotify !!!",
+				"size": "small",
+                "wrap": true
+			  },
+			   {
+                "type": "TextBlock",
+                "text": "Stay tuned...",
+                "isSubtle": true,
+                "spacing": "none"
+              },
+                
             ]
           },
           {
@@ -23,17 +38,20 @@
             "width": 1,
             "items": [
               {
-                "type": "TextBlock",
-                "text": "Click here to play another game of Spider in Microsoft Solitaire Collection!",
-                "color": "light",
-                "weight": "bolder",
-                "wrap": true,
-                "size": "default",
-                "horizontalAlignment": "center"
+                "type": "Image",
+                "url": "https://www.bing.com/images/search?view=detailV2&ccid=o5Q6bt1j&id=FE17BF4B5BFE118EF944320FAD350CAE461F5387&thid=OIP.o5Q6bt1jUXMxKzsjYp90UgHaFx&mediaurl=https%3a%2f%2fcdn1.vectorstock.com%2fi%2f1000x1000%2f61%2f45%2fcute-star-cartoon-vector-15656145.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a3943a6edd635173312b3b23629f7452%3frik%3dh1MfRq4MNa0PMg%26pid%3dImgRaw%26r%3d0&exph=780&expw=1000&q=star+cartoon&simid=607998396984069423&FORM=IRPRST&ck=21B514DDFF3710EBADC94D95720FBBBA&selectedIndex=58&ajaxhist=0&ajaxserp=0",
+                "size": "auto"
               }
             ]
           }
         ]
+      }
+    ],
+    "actions": [
+      {
+        "type": "Action.OpenUrl",
+        "title": "Clicca qui se vuoi saperne di più ♥ ",
+        "url": "https://orcd.co/chiaraworld"
       }
     ]
   }

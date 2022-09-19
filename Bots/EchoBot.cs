@@ -42,14 +42,29 @@ namespace EchoBot.Bots
 
         protected override async Task OnMembersAddedAsync(IList<ChannelAccount> membersAdded, ITurnContext<IConversationUpdateActivity> turnContext, CancellationToken cancellationToken)
         {   
-             string card2 =Path.Combine(".",  "chiara.png");
+            
             var welcomeText = "Hi, welcome to Chiara World!!\n Follow the link below to find out some news about my EP coming out on September 26th. \n ";
             foreach (var member in membersAdded)
             {
-                     
-                        var cardAttachment = CreateAdaptiveCardAttachment(card1);
-                         await turnContext.SendActivityAsync(MessageFactory.Attachment(cardAttachment), cancellationToken);
+                     {
+                        var imagePath = Path.Combine(".",  "chiara.png");
+                        var imageData = Convert.ToBase64String(File.ReadAllBytes(imagePath));
 
+                        var _chiarapng= new Attachment
+                            {
+                                Name = @"chiara.png",
+                                ContentType = "image/png",
+                                ContentUrl = $"data:image/png;base64,{imageData}",
+                            };
+                        var imagePath1 = Path.Combine(".",  "SolitaireCard.json");
+                         var cardAttachment2 = CreateAdaptiveCardAttachment(imagePath1);
+                           await turnContext.SendActivityAsync(MessageFactory.Attachment(_chiarapng), cancellationToken);
+                          await turnContext.SendActivityAsync(MessageFactory.Attachment(cardAttachment2), cancellationToken);
+                       
+
+                    }
+                        //var cardAttachment = CreateAdaptiveCardAttachment(card1);
+                      
             //turnContext.Activity.Attachments = new List<Attachment>() { cardAttachment };
                
             }
