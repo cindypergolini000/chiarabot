@@ -13,14 +13,14 @@
             "items": [
               {
                 "type": "TextBlock",
-                "text": "CHECK MY NEW EP OUT",
+                "text": "SAVE THE DATE: 26 settembre",
 				"weight": "bolder",
                 "size": "extraLarge",
                 "spacing": "none"
               },
               {
                 "type": "TextBlock",
-                "text": "Il 26 settembre uscirà su Spotify !!!",
+                "text": "Il 26 settembre uscirà su Spotify il mio nuovo album!!!",
 				"size": "small",
                 "wrap": true
 			  },
